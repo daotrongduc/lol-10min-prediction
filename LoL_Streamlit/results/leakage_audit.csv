@@ -1,0 +1,41 @@
+﻿feature,role,allowed_as_input,reason
+gameId,identifier_excluded,False,Định danh không mô tả trạng thái
+blueWins,target_only,False,Nhãn cuối trận
+blueWardsPlaced,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueWardsDestroyed,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueFirstBlood,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueKills,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueDeaths,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueAssists,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueEliteMonsters,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueDragons,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueHeralds,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueTowersDestroyed,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueTotalGold,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueAvgLevel,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueTotalExperience,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueTotalMinionsKilled,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueTotalJungleMinionsKilled,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueGoldDiff,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueExperienceDiff,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueCSPerMin,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+blueGoldPerMin,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redWardsPlaced,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redWardsDestroyed,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redFirstBlood,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redKills,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redDeaths,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redAssists,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redEliteMonsters,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redDragons,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redHeralds,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redTowersDestroyed,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redTotalGold,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redAvgLevel,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redTotalExperience,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redTotalMinionsKilled,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redTotalJungleMinionsKilled,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redGoldDiff,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redExperienceDiff,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redCSPerMin,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp
+redGoldPerMin,minute10_predictor,True,Nguồn mô tả snapshot phút 10; kiểm tra CSV không tự chứng minh timestamp

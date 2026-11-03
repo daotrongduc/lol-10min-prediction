@@ -1,0 +1,13 @@
+{
+  "candidate_id": 19,
+  "feature_set": "reduced_raw",
+  "n_features": 25,
+  "model": "Histogram Gradient Boosting",
+  "parameters": "{\"l2_regularization\": 1.0, \"learning_rate\": 0.05, \"max_leaf_nodes\": 7}",
+  "fit_seconds": 0.1553596969999944,
+  "accuracy": 0.7317813765182186,
+  "precision": 0.7317073170731707,
+  "recall": 0.7302231237322515,
+  "f1": 0.7309644670050761,
+  "roc_auc": 0.8142786895322393
+}

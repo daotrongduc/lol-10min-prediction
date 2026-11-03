@@ -1,0 +1,10 @@
+{
+  "large_gold_lead": 2731.5,
+  "threshold_source": "75th percentile of abs blueGoldDiff on Train",
+  "min_support": 0.05,
+  "min_confidence": 0.7,
+  "min_lift_exclusive": 1.0,
+  "max_itemset_length": 3,
+  "max_antecedent_length": 2,
+  "representative_rule_selection": "top 6 each winner by Train lift, confidence, support; exclude nested gold lead pair"
+}

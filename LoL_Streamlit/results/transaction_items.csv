@@ -1,0 +1,23 @@
+﻿item,train_support,definition
+Blue_Gold_Lead,0.503985828166519,Blue_Gold_Lead
+Blue_Experience_Lead,0.4896874604580539,Blue_Experience_Lead
+Blue_Kill_Lead,0.4542578767556624,Blue_Kill_Lead
+Blue_CS_Lead,0.48336074908262683,Blue_CS_Lead
+Blue_Level_Lead,0.4013665696570922,Blue_Level_Lead
+Blue_Tower_Lead,0.04428697962798937,Blue_Tower_Lead
+Blue_Large_Gold_Lead,0.12438314564089586,Blue_Large_Gold_Lead
+Blue_Dragon,0.3623940275844616,Blue_Dragon
+Blue_Herald,0.18727065671264076,Blue_Herald
+Blue_FirstBlood,0.5047450335315703,Blue_FirstBlood
+Blue_Win,0.49905099329368596,blueWins = 1
+Red_Gold_Lead,0.49588763760597243,Red_Gold_Lead
+Red_Experience_Lead,0.5103125395419461,Red_Experience_Lead
+Red_Kill_Lead,0.45008224724788054,Red_Kill_Lead
+Red_CS_Lead,0.503732759711502,Red_CS_Lead
+Red_Level_Lead,0.4213589776034417,Red_Level_Lead
+Red_Tower_Lead,0.039731747437681895,Red_Tower_Lead
+Red_Large_Gold_Lead,0.12564848791598127,Red_Large_Gold_Lead
+Red_Dragon,0.4104770340377072,Red_Dragon
+Red_Herald,0.15753511324813363,Red_Herald
+Red_FirstBlood,0.4952549664684297,Red_FirstBlood
+Red_Win,0.500949006706314,blueWins = 0

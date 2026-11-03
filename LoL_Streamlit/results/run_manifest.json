@@ -1,0 +1,53 @@
+{
+  "status": "completed",
+  "utc": "2026-10-21T00:33:25.244683+00:00",
+  "seed": 42,
+  "python": "3.12.14",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "joblib": "1.5.3"
+  },
+  "dataset_sha256": "82b2e23279097c2dac616e966eb2911711c428d41b6382b4cdb15da4892f9ca6",
+  "code_sha256": "613c093db76778e5b70c4c1156ac484f709b7cfa851e9044b368556325bc5b7c",
+  "data_summary": {
+    "rows": 9879,
+    "columns": 40,
+    "missing_cells": 0,
+    "duplicate_rows": 0,
+    "unique_gameId": 9879,
+    "duplicate_gameId": 0,
+    "blue_wins": 4930,
+    "red_wins": 4949,
+    "blue_win_rate": 0.4990383642069035
+  },
+  "initial_predictors": 38,
+  "reduced_raw_features": 25,
+  "difference_features": 13,
+  "selected": {
+    "candidate_id": 19,
+    "feature_set": "reduced_raw",
+    "n_features": 25,
+    "model": "Histogram Gradient Boosting",
+    "parameters": "{\"l2_regularization\": 1.0, \"learning_rate\": 0.05, \"max_leaf_nodes\": 7}",
+    "fit_seconds": 0.1553596969999944,
+    "accuracy": 0.7317813765182186,
+    "precision": 0.7317073170731707,
+    "recall": 0.7302231237322515,
+    "f1": 0.7309644670050761,
+    "roc_auc": 0.8142786895322393
+  },
+  "test_metrics": {
+    "accuracy": 0.7226720647773279,
+    "precision": 0.7176938369781312,
+    "recall": 0.7322515212981744,
+    "f1": 0.7248995983935743,
+    "roc_auc": 0.7963120044255946
+  },
+  "selected_k": 2,
+  "frequent_itemsets_max_len3": 584,
+  "filtered_rules": 75,
+  "elapsed_seconds": 25.666085348000024
+}

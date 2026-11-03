@@ -1,0 +1,585 @@
+﻿itemset,length,support
+Blue_CS_Lead,1,0.48336074908262683
+Blue_Dragon,1,0.3623940275844616
+Blue_Experience_Lead,1,0.4896874604580539
+Blue_FirstBlood,1,0.5047450335315703
+Blue_Gold_Lead,1,0.503985828166519
+Blue_Herald,1,0.18727065671264076
+Blue_Kill_Lead,1,0.4542578767556624
+Blue_Large_Gold_Lead,1,0.12438314564089586
+Blue_Level_Lead,1,0.4013665696570922
+Blue_Win,1,0.49905099329368596
+Red_CS_Lead,1,0.503732759711502
+Red_Dragon,1,0.4104770340377072
+Red_Experience_Lead,1,0.5103125395419461
+Red_FirstBlood,1,0.4952549664684297
+Red_Gold_Lead,1,0.49588763760597243
+Red_Herald,1,0.15753511324813363
+Red_Kill_Lead,1,0.45008224724788054
+Red_Large_Gold_Lead,1,0.12564848791598127
+Red_Level_Lead,1,0.4213589776034417
+Red_Win,1,0.500949006706314
+Blue_CS_Lead & Blue_Dragon,2,0.19347083386055927
+Blue_CS_Lead & Blue_Experience_Lead,2,0.342148551183095
+Blue_CS_Lead & Blue_FirstBlood,2,0.28255093002657217
+Blue_CS_Lead & Blue_Gold_Lead,2,0.3503732759711502
+Blue_CS_Lead & Blue_Herald,2,0.104770340377072
+Blue_CS_Lead & Blue_Kill_Lead,2,0.2887511071744907
+Blue_CS_Lead & Blue_Large_Gold_Lead,2,0.11172972289004175
+Blue_CS_Lead & Blue_Level_Lead,2,0.2863469568518284
+Blue_CS_Lead & Blue_Win,2,0.30393521447551564
+Blue_CS_Lead & Red_Dragon,2,0.17575604200936354
+Blue_CS_Lead & Red_Experience_Lead,2,0.14121219789953182
+Blue_CS_Lead & Red_FirstBlood,2,0.20080981905605466
+Blue_CS_Lead & Red_Gold_Lead,2,0.1328609388839681
+Blue_CS_Lead & Red_Herald,2,0.06427938757433886
+Blue_CS_Lead & Red_Kill_Lead,2,0.14728584081994178
+Blue_CS_Lead & Red_Level_Lead,2,0.112488928255093
+Blue_CS_Lead & Red_Win,2,0.17942553460711122
+Blue_Dragon & Blue_Experience_Lead,2,0.21650006326711377
+Blue_Dragon & Blue_FirstBlood,2,0.2144755156269771
+Blue_Dragon & Blue_Gold_Lead,2,0.2261166645577629
+Blue_Dragon & Blue_Herald,2,0.0714918385423257
+Blue_Dragon & Blue_Kill_Lead,2,0.2129571048968746
+Blue_Dragon & Blue_Large_Gold_Lead,2,0.06693660635201822
+Blue_Dragon & Blue_Level_Lead,2,0.18170315070226498
+Blue_Dragon & Blue_Win,2,0.2307984309755789
+Blue_Dragon & Red_CS_Lead,2,0.1642414273060863
+Blue_Dragon & Red_Experience_Lead,2,0.14589396431734783
+Blue_Dragon & Red_FirstBlood,2,0.1479185119574845
+Blue_Dragon & Red_Gold_Lead,2,0.1362773630266987
+Blue_Dragon & Red_Herald,2,0.05365051246362141
+Blue_Dragon & Red_Kill_Lead,2,0.11514614703277236
+Blue_Dragon & Red_Level_Lead,2,0.11653802353536631
+Blue_Dragon & Red_Win,2,0.1315955966088827
+Blue_Experience_Lead & Blue_FirstBlood,2,0.29621662659749465
+Blue_Experience_Lead & Blue_Gold_Lead,2,0.4214855118309503
+Blue_Experience_Lead & Blue_Herald,2,0.1174237631279261
+Blue_Experience_Lead & Blue_Kill_Lead,2,0.3755535872453499
+Blue_Experience_Lead & Blue_Large_Gold_Lead,2,0.12400354295837024
+Blue_Experience_Lead & Blue_Level_Lead,2,0.37276983424016197
+Blue_Experience_Lead & Blue_Win,2,0.35087941288118435
+Blue_Experience_Lead & Red_CS_Lead,2,0.14045299253448057
+Blue_Experience_Lead & Red_Dragon,2,0.15664937365557383
+Blue_Experience_Lead & Red_FirstBlood,2,0.19347083386055927
+Blue_Experience_Lead & Red_Gold_Lead,2,0.06820194862710363
+Blue_Experience_Lead & Red_Herald,2,0.052891307098570164
+Blue_Experience_Lead & Red_Kill_Lead,2,0.06681007212450968
+Blue_Experience_Lead & Red_Win,2,0.13880804757686954
+Blue_FirstBlood & Blue_Gold_Lead,2,0.3346830317600911
+Blue_FirstBlood & Blue_Herald,2,0.10932557256737947
+Blue_FirstBlood & Blue_Kill_Lead,2,0.3088700493483487
+Blue_FirstBlood & Blue_Large_Gold_Lead,2,0.0989497659116791
+Blue_FirstBlood & Blue_Level_Lead,2,0.25028470201189423
+Blue_FirstBlood & Blue_Win,2,0.3020372010628875
+Blue_FirstBlood & Red_CS_Lead,2,0.21574085790206252
+Blue_FirstBlood & Red_Dragon,2,0.1741110970517525
+Blue_FirstBlood & Red_Experience_Lead,2,0.20852840693407568
+Blue_FirstBlood & Red_Gold_Lead,2,0.16993546754397065
+Blue_FirstBlood & Red_Herald,2,0.06921422244717196
+Blue_FirstBlood & Red_Kill_Lead,2,0.14968999114260406
+Blue_FirstBlood & Red_Level_Lead,2,0.16588637226369732
+Blue_FirstBlood & Red_Win,2,0.2027078324686828
+Blue_Gold_Lead & Blue_Herald,2,0.11843603694799443
+Blue_Gold_Lead & Blue_Kill_Lead,2,0.41655067695811715
+Blue_Gold_Lead & Blue_Large_Gold_Lead,2,0.12438314564089586
+Blue_Gold_Lead & Blue_Level_Lead,2,0.3527774262938125
+Blue_Gold_Lead & Blue_Win,2,0.3635328356320385
+Blue_Gold_Lead & Red_CS_Lead,2,0.14690623813741618
+Blue_Gold_Lead & Red_Dragon,2,0.1596861951157788
+Blue_Gold_Lead & Red_Experience_Lead,2,0.08250031633556877
+Blue_Gold_Lead & Red_FirstBlood,2,0.16930279640642795
+Blue_Gold_Lead & Red_Herald,2,0.05504238896621536
+Blue_Gold_Lead & Red_Level_Lead,2,0.05896495001898013
+Blue_Gold_Lead & Red_Win,2,0.14045299253448057
+Blue_Herald & Blue_Kill_Lead,2,0.10325192964696951
+Blue_Herald & Blue_Level_Lead,2,0.09388839681133747
+Blue_Herald & Blue_Win,2,0.11046438061495635
+Blue_Herald & Red_CS_Lead,2,0.07996963178539795
+Blue_Herald & Red_Dragon,2,0.07996963178539795
+Blue_Herald & Red_Experience_Lead,2,0.06984689358471466
+Blue_Herald & Red_FirstBlood,2,0.07794508414526129
+Blue_Herald & Red_Gold_Lead,2,0.06883461976464633
+Blue_Herald & Red_Kill_Lead,2,0.06465899025686449
+Blue_Herald & Red_Level_Lead,2,0.0566873339238264
+Blue_Herald & Red_Win,2,0.07680627609768442
+Blue_Kill_Lead & Blue_Large_Gold_Lead,2,0.1238770087308617
+Blue_Kill_Lead & Blue_Level_Lead,2,0.31848665063899784
+Blue_Kill_Lead & Blue_Win,2,0.32898899152220673
+Blue_Kill_Lead & Red_CS_Lead,2,0.16006579779830443
+Blue_Kill_Lead & Red_Dragon,2,0.13539162343413894
+Blue_Kill_Lead & Red_Experience_Lead,2,0.07870428951031254
+Blue_Kill_Lead & Red_FirstBlood,2,0.14538782740731368
+Blue_Kill_Lead & Red_Herald,2,0.05225863596102746
+Blue_Kill_Lead & Red_Level_Lead,2,0.057066936606352016
+Blue_Kill_Lead & Red_Win,2,0.12526888523345564
+Blue_Large_Gold_Lead & Blue_Level_Lead,2,0.11932177654055422
+Blue_Large_Gold_Lead & Blue_Win,2,0.11046438061495635
+Blue_Level_Lead & Blue_Win,2,0.29507781854991777
+Blue_Level_Lead & Red_CS_Lead,2,0.10945210679488802
+Blue_Level_Lead & Red_Dragon,2,0.12400354295837024
+Blue_Level_Lead & Red_FirstBlood,2,0.15108186764519801
+Blue_Level_Lead & Red_Kill_Lead,2,0.0502340883208908
+Blue_Level_Lead & Red_Win,2,0.10628875110717449
+Blue_Win & Red_CS_Lead,2,0.18878906744274326
+Blue_Win & Red_Dragon,2,0.1528533468303176
+Blue_Win & Red_Experience_Lead,2,0.14817158041250159
+Blue_Win & Red_FirstBlood,2,0.19701379223079843
+Blue_Win & Red_Gold_Lead,2,0.13539162343413894
+Blue_Win & Red_Herald,2,0.06162216879665949
+Blue_Win & Red_Kill_Lead,2,0.12185246109072505
+Blue_Win & Red_Level_Lead,2,0.11476654435024675
+Red_CS_Lead & Red_Dragon,2,0.22877388333544224
+Red_CS_Lead & Red_Experience_Lead,2,0.3632797671770214
+Red_CS_Lead & Red_FirstBlood,2,0.28799190180943945
+Red_CS_Lead & Red_Gold_Lead,2,0.3568265215740858
+Red_CS_Lead & Red_Herald,2,0.09199038339870935
+Red_CS_Lead & Red_Kill_Lead,2,0.29748196887258005
+Red_CS_Lead & Red_Large_Gold_Lead,2,0.11451347589522966
+Red_CS_Lead & Red_Level_Lead,2,0.3048209540680754
+Red_CS_Lead & Red_Win,2,0.3149436922687587
+Red_Dragon & Red_Experience_Lead,2,0.2538276603821334
+Red_Dragon & Red_FirstBlood,2,0.2363659369859547
+Red_Dragon & Red_Gold_Lead,2,0.25066430469441986
+Red_Dragon & Red_Herald,2,0.07199797545235986
+Red_Dragon & Red_Kill_Lead,2,0.23712514235100596
+Red_Dragon & Red_Large_Gold_Lead,2,0.07541439959509047
+Red_Dragon & Red_Level_Lead,2,0.2135897760344173
+Red_Dragon & Red_Win,2,0.2576236872073896
+Red_Experience_Lead & Red_FirstBlood,2,0.3017841326078704
+Red_Experience_Lead & Red_Gold_Lead,2,0.42768568897886877
+Red_Experience_Lead & Red_Herald,2,0.10464380614956345
+Red_Experience_Lead & Red_Kill_Lead,2,0.38327217512337086
+Red_Experience_Lead & Red_Large_Gold_Lead,2,0.12526888523345564
+Red_Experience_Lead & Red_Level_Lead,2,0.3913703656839175
+Red_Experience_Lead & Red_Win,2,0.3621409591294445
+Red_FirstBlood & Red_Gold_Lead,2,0.3259521700620018
+Red_FirstBlood & Red_Herald,2,0.08832089080096166
+Red_FirstBlood & Red_Kill_Lead,2,0.3003922561052765
+Red_FirstBlood & Red_Large_Gold_Lead,2,0.09996203973174744
+Red_FirstBlood & Red_Level_Lead,2,0.2554726053397444
+Red_FirstBlood & Red_Win,2,0.2982411742376313
+Red_Gold_Lead & Red_Herald,2,0.10249272428191826
+Red_Gold_Lead & Red_Kill_Lead,2,0.41275465013286095
+Red_Gold_Lead & Red_Large_Gold_Lead,2,0.12564848791598127
+Red_Gold_Lead & Red_Level_Lead,2,0.3622674933569531
+Red_Gold_Lead & Red_Win,2,0.36049601417183347
+Red_Herald & Red_Kill_Lead,2,0.09009236998608124
+Red_Herald & Red_Level_Lead,2,0.08870049348348728
+Red_Herald & Red_Win,2,0.09591294445147412
+Red_Kill_Lead & Red_Large_Gold_Lead,2,0.12514235100594712
+Red_Kill_Lead & Red_Level_Lead,2,0.3275971150196128
+Red_Kill_Lead & Red_Win,2,0.32822978615715553
+Red_Large_Gold_Lead & Red_Level_Lead,2,0.1217259268632165
+Red_Large_Gold_Lead & Red_Win,2,0.11299506516512717
+Red_Level_Lead & Red_Win,2,0.30659243325319496
+Blue_CS_Lead & Blue_Dragon & Blue_Experience_Lead,3,0.15171453878274074
+Blue_CS_Lead & Blue_Dragon & Blue_FirstBlood,3,0.12463621409591294
+Blue_CS_Lead & Blue_Dragon & Blue_Gold_Lead,3,0.15614323674553968
+Blue_CS_Lead & Blue_Dragon & Blue_Kill_Lead,3,0.1361508287991902
+Blue_CS_Lead & Blue_Dragon & Blue_Large_Gold_Lead,3,0.059977223839048466
+Blue_CS_Lead & Blue_Dragon & Blue_Level_Lead,3,0.13020372010628875
+Blue_CS_Lead & Blue_Dragon & Blue_Win,3,0.1436163482221941
+Blue_CS_Lead & Blue_Dragon & Red_FirstBlood,3,0.06883461976464633
+Blue_CS_Lead & Blue_Experience_Lead & Blue_FirstBlood,3,0.21460204985448564
+Blue_CS_Lead & Blue_Experience_Lead & Blue_Gold_Lead,3,0.3088700493483487
+Blue_CS_Lead & Blue_Experience_Lead & Blue_Herald,3,0.08376565861065419
+Blue_CS_Lead & Blue_Experience_Lead & Blue_Kill_Lead,3,0.26546880931291916
+Blue_CS_Lead & Blue_Experience_Lead & Blue_Large_Gold_Lead,3,0.11147665443502468
+Blue_CS_Lead & Blue_Experience_Lead & Blue_Level_Lead,3,0.27419967101100845
+Blue_CS_Lead & Blue_Experience_Lead & Blue_Win,3,0.25559913956725294
+Blue_CS_Lead & Blue_Experience_Lead & Red_Dragon,3,0.10730102492724282
+Blue_CS_Lead & Blue_Experience_Lead & Red_FirstBlood,3,0.1275465013286094
+Blue_CS_Lead & Blue_Experience_Lead & Red_Win,3,0.08654941161584208
+Blue_CS_Lead & Blue_FirstBlood & Blue_Gold_Lead,3,0.23535366316588638
+Blue_CS_Lead & Blue_FirstBlood & Blue_Herald,3,0.06554472984942426
+Blue_CS_Lead & Blue_FirstBlood & Blue_Kill_Lead,3,0.20232822978615717
+Blue_CS_Lead & Blue_FirstBlood & Blue_Large_Gold_Lead,3,0.08819435657345312
+Blue_CS_Lead & Blue_FirstBlood & Blue_Level_Lead,3,0.18537264330001266
+Blue_CS_Lead & Blue_FirstBlood & Blue_Win,3,0.1978995318233582
+Blue_CS_Lead & Blue_FirstBlood & Red_Dragon,3,0.0905985068961154
+Blue_CS_Lead & Blue_FirstBlood & Red_Experience_Lead,3,0.06794888017208654
+Blue_CS_Lead & Blue_FirstBlood & Red_Kill_Lead,3,0.05592812855877515
+Blue_CS_Lead & Blue_FirstBlood & Red_Level_Lead,3,0.05187903327850184
+Blue_CS_Lead & Blue_FirstBlood & Red_Win,3,0.08465139820321398
+Blue_CS_Lead & Blue_Gold_Lead & Blue_Herald,3,0.08389219283816272
+Blue_CS_Lead & Blue_Gold_Lead & Blue_Kill_Lead,3,0.2822978615715551
+Blue_CS_Lead & Blue_Gold_Lead & Blue_Large_Gold_Lead,3,0.11172972289004175
+Blue_CS_Lead & Blue_Gold_Lead & Blue_Level_Lead,3,0.26458306972035933
+Blue_CS_Lead & Blue_Gold_Lead & Blue_Win,3,0.26217891939769705
+Blue_CS_Lead & Blue_Gold_Lead & Red_Dragon,3,0.11008477793243072
+Blue_CS_Lead & Blue_Gold_Lead & Red_FirstBlood,3,0.11501961280526382
+Blue_CS_Lead & Blue_Gold_Lead & Red_Win,3,0.08819435657345312
+Blue_CS_Lead & Blue_Herald & Blue_Kill_Lead,3,0.06769581171706947
+Blue_CS_Lead & Blue_Herald & Blue_Level_Lead,3,0.07009996203973175
+Blue_CS_Lead & Blue_Herald & Blue_Win,3,0.07225104390737695
+Blue_CS_Lead & Blue_Kill_Lead & Blue_Large_Gold_Lead,3,0.11122358598000759
+Blue_CS_Lead & Blue_Kill_Lead & Blue_Level_Lead,3,0.23130456788561307
+Blue_CS_Lead & Blue_Kill_Lead & Blue_Win,3,0.22396558269011768
+Blue_CS_Lead & Blue_Kill_Lead & Red_Dragon,3,0.08250031633556877
+Blue_CS_Lead & Blue_Kill_Lead & Red_FirstBlood,3,0.08642287738833354
+Blue_CS_Lead & Blue_Kill_Lead & Red_Win,3,0.06478552448437302
+Blue_CS_Lead & Blue_Large_Gold_Lead & Blue_Level_Lead,3,0.10806023029229407
+Blue_CS_Lead & Blue_Large_Gold_Lead & Blue_Win,3,0.09920283436669619
+Blue_CS_Lead & Blue_Level_Lead & Blue_Win,3,0.21991648740984437
+Blue_CS_Lead & Blue_Level_Lead & Red_Dragon,3,0.08553713779577375
+Blue_CS_Lead & Blue_Level_Lead & Red_FirstBlood,3,0.10097431355181577
+Blue_CS_Lead & Blue_Level_Lead & Red_Win,3,0.06643046944198405
+Blue_CS_Lead & Blue_Win & Red_Dragon,3,0.08667594584335063
+Blue_CS_Lead & Blue_Win & Red_FirstBlood,3,0.1060356826521574
+Blue_CS_Lead & Blue_Win & Red_Kill_Lead,3,0.05263823864355308
+Blue_CS_Lead & Red_Dragon & Red_Experience_Lead,3,0.06845501708212072
+Blue_CS_Lead & Red_Dragon & Red_FirstBlood,3,0.08515753511324814
+Blue_CS_Lead & Red_Dragon & Red_Gold_Lead,3,0.06554472984942426
+Blue_CS_Lead & Red_Dragon & Red_Kill_Lead,3,0.07326331772744528
+Blue_CS_Lead & Red_Dragon & Red_Level_Lead,3,0.05567506010375807
+Blue_CS_Lead & Red_Dragon & Red_Win,3,0.08908009616601291
+Blue_CS_Lead & Red_Experience_Lead & Red_FirstBlood,3,0.07326331772744528
+Blue_CS_Lead & Red_Experience_Lead & Red_Gold_Lead,3,0.09958243704922182
+Blue_CS_Lead & Red_Experience_Lead & Red_Kill_Lead,3,0.10160698468935847
+Blue_CS_Lead & Red_Experience_Lead & Red_Level_Lead,3,0.0949006706314058
+Blue_CS_Lead & Red_Experience_Lead & Red_Win,3,0.09287612299126914
+Blue_CS_Lead & Red_FirstBlood & Red_Gold_Lead,3,0.08579020625079084
+Blue_CS_Lead & Red_FirstBlood & Red_Kill_Lead,3,0.09135771226116665
+Blue_CS_Lead & Red_FirstBlood & Red_Level_Lead,3,0.06060989497659117
+Blue_CS_Lead & Red_FirstBlood & Red_Win,3,0.09477413640389726
+Blue_CS_Lead & Red_Gold_Lead & Red_Kill_Lead,3,0.11590535239782361
+Blue_CS_Lead & Red_Gold_Lead & Red_Level_Lead,3,0.08060230292294066
+Blue_CS_Lead & Red_Gold_Lead & Red_Win,3,0.0912311780336581
+Blue_CS_Lead & Red_Kill_Lead & Red_Level_Lead,3,0.08098190560546628
+Blue_CS_Lead & Red_Kill_Lead & Red_Win,3,0.0946476021763887
+Blue_CS_Lead & Red_Level_Lead & Red_Win,3,0.07503479691256484
+Blue_Dragon & Blue_Experience_Lead & Blue_FirstBlood,3,0.14311021131215995
+Blue_Dragon & Blue_Experience_Lead & Blue_Gold_Lead,3,0.19359736808806782
+Blue_Dragon & Blue_Experience_Lead & Blue_Herald,3,0.052005567506010375
+Blue_Dragon & Blue_Experience_Lead & Blue_Kill_Lead,3,0.17879286346956852
+Blue_Dragon & Blue_Experience_Lead & Blue_Large_Gold_Lead,3,0.06668353789700114
+Blue_Dragon & Blue_Experience_Lead & Blue_Level_Lead,3,0.17069467290902188
+Blue_Dragon & Blue_Experience_Lead & Blue_Win,3,0.17158041250158168
+Blue_Dragon & Blue_Experience_Lead & Red_CS_Lead,3,0.06187523725167658
+Blue_Dragon & Blue_Experience_Lead & Red_FirstBlood,3,0.07338985195495382
+Blue_Dragon & Blue_FirstBlood & Blue_Gold_Lead,3,0.15804125015816778
+Blue_Dragon & Blue_FirstBlood & Blue_Kill_Lead,3,0.15247374414779197
+Blue_Dragon & Blue_FirstBlood & Blue_Large_Gold_Lead,3,0.05478932051119828
+Blue_Dragon & Blue_FirstBlood & Blue_Level_Lead,3,0.1238770087308617
+Blue_Dragon & Blue_FirstBlood & Blue_Win,3,0.15234720992028344
+Blue_Dragon & Blue_FirstBlood & Red_CS_Lead,3,0.08705554852587626
+Blue_Dragon & Blue_FirstBlood & Red_Experience_Lead,3,0.07136530431481716
+Blue_Dragon & Blue_FirstBlood & Red_Gold_Lead,3,0.056434265468809315
+Blue_Dragon & Blue_FirstBlood & Red_Level_Lead,3,0.05542199164874098
+Blue_Dragon & Blue_FirstBlood & Red_Win,3,0.062128305706693664
+Blue_Dragon & Blue_Gold_Lead & Blue_Herald,3,0.052891307098570164
+Blue_Dragon & Blue_Gold_Lead & Blue_Kill_Lead,3,0.19676072377578135
+Blue_Dragon & Blue_Gold_Lead & Blue_Large_Gold_Lead,3,0.06693660635201822
+Blue_Dragon & Blue_Gold_Lead & Blue_Level_Lead,3,0.16613944071871442
+Blue_Dragon & Blue_Gold_Lead & Blue_Win,3,0.1790459319245856
+Blue_Dragon & Blue_Gold_Lead & Red_CS_Lead,3,0.06756927748956093
+Blue_Dragon & Blue_Gold_Lead & Red_FirstBlood,3,0.0680754143995951
+Blue_Dragon & Blue_Herald & Blue_Win,3,0.052385170188536
+Blue_Dragon & Blue_Kill_Lead & Blue_Large_Gold_Lead,3,0.06668353789700114
+Blue_Dragon & Blue_Kill_Lead & Blue_Level_Lead,3,0.15411868910540302
+Blue_Dragon & Blue_Kill_Lead & Blue_Win,3,0.1685435910413767
+Blue_Dragon & Blue_Kill_Lead & Red_CS_Lead,3,0.07478172845754777
+Blue_Dragon & Blue_Kill_Lead & Red_FirstBlood,3,0.06048336074908263
+Blue_Dragon & Blue_Large_Gold_Lead & Blue_Level_Lead,3,0.0644059218018474
+Blue_Dragon & Blue_Large_Gold_Lead & Blue_Win,3,0.062128305706693664
+Blue_Dragon & Blue_Level_Lead & Blue_Win,3,0.1470327723649247
+Blue_Dragon & Blue_Level_Lead & Red_FirstBlood,3,0.05782614197140327
+Blue_Dragon & Blue_Win & Red_CS_Lead,3,0.08490446665823105
+Blue_Dragon & Blue_Win & Red_Experience_Lead,3,0.059218018473997214
+Blue_Dragon & Blue_Win & Red_FirstBlood,3,0.07845122105529546
+Blue_Dragon & Blue_Win & Red_Gold_Lead,3,0.05175249905099329
+Blue_Dragon & Red_CS_Lead & Red_Experience_Lead,3,0.10236619005440972
+Blue_Dragon & Red_CS_Lead & Red_FirstBlood,3,0.07718587878021005
+Blue_Dragon & Red_CS_Lead & Red_Gold_Lead,3,0.09667214981652537
+Blue_Dragon & Red_CS_Lead & Red_Kill_Lead,3,0.07225104390737695
+Blue_Dragon & Red_CS_Lead & Red_Level_Lead,3,0.08262685056307731
+Blue_Dragon & Red_CS_Lead & Red_Win,3,0.07933696064785524
+Blue_Dragon & Red_Experience_Lead & Red_FirstBlood,3,0.07452866000253068
+Blue_Dragon & Red_Experience_Lead & Red_Gold_Lead,3,0.1133746678476528
+Blue_Dragon & Red_Experience_Lead & Red_Kill_Lead,3,0.09388839681133747
+Blue_Dragon & Red_Experience_Lead & Red_Level_Lead,3,0.10426420346703784
+Blue_Dragon & Red_Experience_Lead & Red_Win,3,0.08667594584335063
+Blue_Dragon & Red_FirstBlood & Red_Gold_Lead,3,0.0798430975578894
+Blue_Dragon & Red_FirstBlood & Red_Kill_Lead,3,0.07022649626724028
+Blue_Dragon & Red_FirstBlood & Red_Level_Lead,3,0.06111603188662533
+Blue_Dragon & Red_FirstBlood & Red_Win,3,0.06946729090218905
+Blue_Dragon & Red_Gold_Lead & Red_Kill_Lead,3,0.10249272428191826
+Blue_Dragon & Red_Gold_Lead & Red_Level_Lead,3,0.09312919144628622
+Blue_Dragon & Red_Gold_Lead & Red_Win,3,0.08452486397570542
+Blue_Dragon & Red_Kill_Lead & Red_Level_Lead,3,0.07819815260027838
+Blue_Dragon & Red_Kill_Lead & Red_Win,3,0.07111223585980007
+Blue_Dragon & Red_Level_Lead & Red_Win,3,0.07136530431481716
+Blue_Experience_Lead & Blue_FirstBlood & Blue_Gold_Lead,3,0.2760976844236366
+Blue_Experience_Lead & Blue_FirstBlood & Blue_Herald,3,0.0757940022776161
+Blue_Experience_Lead & Blue_FirstBlood & Blue_Kill_Lead,3,0.25572567379476147
+Blue_Experience_Lead & Blue_FirstBlood & Blue_Large_Gold_Lead,3,0.09857016322915349
+Blue_Experience_Lead & Blue_FirstBlood & Blue_Level_Lead,3,0.2351005947108693
+Blue_Experience_Lead & Blue_FirstBlood & Blue_Win,3,0.22586359610274578
+Blue_Experience_Lead & Blue_FirstBlood & Red_CS_Lead,3,0.07807161837276984
+Blue_Experience_Lead & Blue_FirstBlood & Red_Dragon,3,0.08376565861065419
+Blue_Experience_Lead & Blue_FirstBlood & Red_Win,3,0.07035303049474884
+Blue_Experience_Lead & Blue_Gold_Lead & Blue_Herald,3,0.10337846387447805
+Blue_Experience_Lead & Blue_Gold_Lead & Blue_Kill_Lead,3,0.36340630140452995
+Blue_Experience_Lead & Blue_Gold_Lead & Blue_Large_Gold_Lead,3,0.12400354295837024
+Blue_Experience_Lead & Blue_Gold_Lead & Blue_Level_Lead,3,0.34037707199797546
+Blue_Experience_Lead & Blue_Gold_Lead & Blue_Win,3,0.3207642667341516
+Blue_Experience_Lead & Blue_Gold_Lead & Red_CS_Lead,3,0.10755409338225991
+Blue_Experience_Lead & Blue_Gold_Lead & Red_Dragon,3,0.12590155637099837
+Blue_Experience_Lead & Blue_Gold_Lead & Red_FirstBlood,3,0.14538782740731368
+Blue_Experience_Lead & Blue_Gold_Lead & Red_Win,3,0.10072124509679868
+Blue_Experience_Lead & Blue_Herald & Blue_Kill_Lead,3,0.08945969884853854
+Blue_Experience_Lead & Blue_Herald & Blue_Level_Lead,3,0.09009236998608124
+Blue_Experience_Lead & Blue_Herald & Blue_Win,3,0.08490446665823105
+Blue_Experience_Lead & Blue_Kill_Lead & Blue_Large_Gold_Lead,3,0.12349740604833608
+Blue_Experience_Lead & Blue_Kill_Lead & Blue_Level_Lead,3,0.30861698089333167
+Blue_Experience_Lead & Blue_Kill_Lead & Blue_Win,3,0.28824497026445656
+Blue_Experience_Lead & Blue_Kill_Lead & Red_CS_Lead,3,0.10565607996963179
+Blue_Experience_Lead & Blue_Kill_Lead & Red_Dragon,3,0.10628875110717449
+Blue_Experience_Lead & Blue_Kill_Lead & Red_FirstBlood,3,0.11982791345058838
+Blue_Experience_Lead & Blue_Kill_Lead & Red_Win,3,0.08730861698089333
+Blue_Experience_Lead & Blue_Large_Gold_Lead & Blue_Level_Lead,3,0.11932177654055422
+Blue_Experience_Lead & Blue_Large_Gold_Lead & Blue_Win,3,0.11008477793243072
+Blue_Experience_Lead & Blue_Level_Lead & Blue_Win,3,0.2817917246615209
+Blue_Experience_Lead & Blue_Level_Lead & Red_CS_Lead,3,0.0933822599013033
+Blue_Experience_Lead & Blue_Level_Lead & Red_Dragon,3,0.11160318866253321
+Blue_Experience_Lead & Blue_Level_Lead & Red_FirstBlood,3,0.13766923952929266
+Blue_Experience_Lead & Blue_Level_Lead & Red_Win,3,0.09097810957864103
+Blue_Experience_Lead & Blue_Win & Red_CS_Lead,3,0.09085157535113249
+Blue_Experience_Lead & Blue_Win & Red_Dragon,3,0.09603947867898266
+Blue_Experience_Lead & Blue_Win & Red_FirstBlood,3,0.12501581677843857
+Blue_Experience_Lead & Red_CS_Lead & Red_FirstBlood,3,0.062381374161710745
+Blue_Experience_Lead & Red_Dragon & Red_FirstBlood,3,0.07288371504491965
+Blue_Experience_Lead & Red_Dragon & Red_Win,3,0.06060989497659117
+Blue_Experience_Lead & Red_FirstBlood & Red_Win,3,0.06845501708212072
+Blue_FirstBlood & Blue_Gold_Lead & Blue_Herald,3,0.08275338479058586
+Blue_FirstBlood & Blue_Gold_Lead & Blue_Kill_Lead,3,0.28925724408452486
+Blue_FirstBlood & Blue_Gold_Lead & Blue_Large_Gold_Lead,3,0.0989497659116791
+Blue_FirstBlood & Blue_Gold_Lead & Blue_Level_Lead,3,0.23522712893837783
+Blue_FirstBlood & Blue_Gold_Lead & Blue_Win,3,0.2483866885992661
+Blue_FirstBlood & Blue_Gold_Lead & Red_CS_Lead,3,0.0955333417689485
+Blue_FirstBlood & Blue_Gold_Lead & Red_Dragon,3,0.0989497659116791
+Blue_FirstBlood & Blue_Gold_Lead & Red_Experience_Lead,3,0.05858534733645451
+Blue_FirstBlood & Blue_Gold_Lead & Red_Win,3,0.086296343160825
+Blue_FirstBlood & Blue_Herald & Blue_Kill_Lead,3,0.07528786536758193
+Blue_FirstBlood & Blue_Herald & Blue_Level_Lead,3,0.06250790838921928
+Blue_FirstBlood & Blue_Herald & Blue_Win,3,0.07364292040997089
+Blue_FirstBlood & Blue_Kill_Lead & Blue_Large_Gold_Lead,3,0.09869669745666203
+Blue_FirstBlood & Blue_Kill_Lead & Blue_Level_Lead,3,0.2194103504998102
+Blue_FirstBlood & Blue_Kill_Lead & Blue_Win,3,0.2301657598380362
+Blue_FirstBlood & Blue_Kill_Lead & Red_CS_Lead,3,0.10337846387447805
+Blue_FirstBlood & Blue_Kill_Lead & Red_Dragon,3,0.08528406934075668
+Blue_FirstBlood & Blue_Kill_Lead & Red_Experience_Lead,3,0.053144375553587246
+Blue_FirstBlood & Blue_Kill_Lead & Red_Win,3,0.07870428951031254
+Blue_FirstBlood & Blue_Large_Gold_Lead & Blue_Level_Lead,3,0.09452106794888017
+Blue_FirstBlood & Blue_Large_Gold_Lead & Blue_Win,3,0.08832089080096166
+Blue_FirstBlood & Blue_Level_Lead & Blue_Win,3,0.19486271036315322
+Blue_FirstBlood & Blue_Level_Lead & Red_CS_Lead,3,0.06174870302416804
+Blue_FirstBlood & Blue_Level_Lead & Red_Dragon,3,0.0665570036694926
+Blue_FirstBlood & Blue_Level_Lead & Red_Win,3,0.05542199164874098
+Blue_FirstBlood & Blue_Win & Red_CS_Lead,3,0.10148045046184993
+Blue_FirstBlood & Blue_Win & Red_Dragon,3,0.08072883715044919
+Blue_FirstBlood & Blue_Win & Red_Experience_Lead,3,0.07617360496014172
+Blue_FirstBlood & Blue_Win & Red_Gold_Lead,3,0.053523978236112865
+Blue_FirstBlood & Blue_Win & Red_Level_Lead,3,0.057952676198911805
+Blue_FirstBlood & Red_CS_Lead & Red_Dragon,3,0.08060230292294066
+Blue_FirstBlood & Red_CS_Lead & Red_Experience_Lead,3,0.13766923952929266
+Blue_FirstBlood & Red_CS_Lead & Red_Gold_Lead,3,0.120207516133114
+Blue_FirstBlood & Red_CS_Lead & Red_Kill_Lead,3,0.09135771226116665
+Blue_FirstBlood & Red_CS_Lead & Red_Level_Lead,3,0.11198279134505884
+Blue_FirstBlood & Red_CS_Lead & Red_Win,3,0.11426040744021258
+Blue_FirstBlood & Red_Dragon & Red_Experience_Lead,3,0.09034543844109831
+Blue_FirstBlood & Red_Dragon & Red_Gold_Lead,3,0.07503479691256484
+Blue_FirstBlood & Red_Dragon & Red_Kill_Lead,3,0.07060609894976591
+Blue_FirstBlood & Red_Dragon & Red_Level_Lead,3,0.07364292040997089
+Blue_FirstBlood & Red_Dragon & Red_Win,3,0.0933822599013033
+Blue_FirstBlood & Red_Experience_Lead & Red_Gold_Lead,3,0.1498165253701126
+Blue_FirstBlood & Red_Experience_Lead & Red_Kill_Lead,3,0.12843224092116917
+Blue_FirstBlood & Red_Experience_Lead & Red_Level_Lead,3,0.15082879919018094
+Blue_FirstBlood & Red_Experience_Lead & Red_Win,3,0.13235480197393396
+Blue_FirstBlood & Red_Gold_Lead & Red_Kill_Lead,3,0.12957104896874605
+Blue_FirstBlood & Red_Gold_Lead & Red_Level_Lead,3,0.12501581677843857
+Blue_FirstBlood & Red_Gold_Lead & Red_Win,3,0.11641148930785777
+Blue_FirstBlood & Red_Kill_Lead & Red_Level_Lead,3,0.10692142224471719
+Blue_FirstBlood & Red_Kill_Lead & Red_Win,3,0.10097431355181577
+Blue_FirstBlood & Red_Level_Lead & Red_Win,3,0.10793369606478552
+Blue_Gold_Lead & Blue_Herald & Blue_Kill_Lead,3,0.09603947867898266
+Blue_Gold_Lead & Blue_Herald & Blue_Level_Lead,3,0.08604327470580792
+Blue_Gold_Lead & Blue_Herald & Blue_Win,3,0.0878147538909275
+Blue_Gold_Lead & Blue_Kill_Lead & Blue_Large_Gold_Lead,3,0.1238770087308617
+Blue_Gold_Lead & Blue_Kill_Lead & Blue_Level_Lead,3,0.30950272048589145
+Blue_Gold_Lead & Blue_Kill_Lead & Blue_Win,3,0.3121599392635708
+Blue_Gold_Lead & Blue_Kill_Lead & Red_CS_Lead,3,0.12906491205871187
+Blue_Gold_Lead & Blue_Kill_Lead & Red_Dragon,3,0.12185246109072505
+Blue_Gold_Lead & Blue_Kill_Lead & Red_Experience_Lead,3,0.053144375553587246
+Blue_Gold_Lead & Blue_Kill_Lead & Red_FirstBlood,3,0.1272934328735923
+Blue_Gold_Lead & Blue_Kill_Lead & Red_Win,3,0.10439073769454638
+Blue_Gold_Lead & Blue_Large_Gold_Lead & Blue_Level_Lead,3,0.11932177654055422
+Blue_Gold_Lead & Blue_Large_Gold_Lead & Blue_Win,3,0.11046438061495635
+Blue_Gold_Lead & Blue_Level_Lead & Blue_Win,3,0.27445273946602555
+Blue_Gold_Lead & Blue_Level_Lead & Red_CS_Lead,3,0.08401872706567126
+Blue_Gold_Lead & Blue_Level_Lead & Red_Dragon,3,0.10173351891686701
+Blue_Gold_Lead & Blue_Level_Lead & Red_FirstBlood,3,0.11755029735543465
+Blue_Gold_Lead & Blue_Level_Lead & Red_Win,3,0.07832468682778691
+Blue_Gold_Lead & Blue_Win & Red_CS_Lead,3,0.097051752499051
+Blue_Gold_Lead & Blue_Win & Red_Dragon,3,0.09857016322915349
+Blue_Gold_Lead & Blue_Win & Red_FirstBlood,3,0.11514614703277236
+Blue_Gold_Lead & Red_CS_Lead & Red_FirstBlood,3,0.05137289636846767
+Blue_Gold_Lead & Red_Dragon & Red_FirstBlood,3,0.06073642920409971
+Blue_Gold_Lead & Red_Dragon & Red_Win,3,0.06111603188662533
+Blue_Gold_Lead & Red_FirstBlood & Red_Win,3,0.05415664937365557
+Blue_Herald & Blue_Kill_Lead & Blue_Level_Lead,3,0.0749082626850563
+Blue_Herald & Blue_Kill_Lead & Blue_Win,3,0.07756548146273567
+Blue_Herald & Blue_Level_Lead & Blue_Win,3,0.07022649626724028
+Blue_Herald & Red_Experience_Lead & Red_Gold_Lead,3,0.05478932051119828
+Blue_Herald & Red_Gold_Lead & Red_Kill_Lead,3,0.05478932051119828
+Blue_Kill_Lead & Blue_Large_Gold_Lead & Blue_Level_Lead,3,0.11881563963052005
+Blue_Kill_Lead & Blue_Large_Gold_Lead & Blue_Win,3,0.10995824370492219
+Blue_Kill_Lead & Blue_Level_Lead & Blue_Win,3,0.25003163355687713
+Blue_Kill_Lead & Blue_Level_Lead & Red_CS_Lead,3,0.08325952170062002
+Blue_Kill_Lead & Blue_Level_Lead & Red_Dragon,3,0.08730861698089333
+Blue_Kill_Lead & Blue_Level_Lead & Red_FirstBlood,3,0.09907630013918765
+Blue_Kill_Lead & Blue_Level_Lead & Red_Win,3,0.06845501708212072
+Blue_Kill_Lead & Blue_Win & Red_CS_Lead,3,0.10173351891686701
+Blue_Kill_Lead & Blue_Win & Red_Dragon,3,0.08338605592812856
+Blue_Kill_Lead & Blue_Win & Red_FirstBlood,3,0.09882323168417056
+Blue_Kill_Lead & Red_CS_Lead & Red_Dragon,3,0.05061369100341642
+Blue_Kill_Lead & Red_CS_Lead & Red_Experience_Lead,3,0.054409717828672655
+Blue_Kill_Lead & Red_CS_Lead & Red_FirstBlood,3,0.0566873339238264
+Blue_Kill_Lead & Red_CS_Lead & Red_Win,3,0.05833227888143743
+Blue_Kill_Lead & Red_Dragon & Red_FirstBlood,3,0.05010755409338226
+Blue_Kill_Lead & Red_Dragon & Red_Win,3,0.052005567506010375
+Blue_Large_Gold_Lead & Blue_Level_Lead & Blue_Win,3,0.10590914842464887
+Blue_Level_Lead & Blue_Win & Red_CS_Lead,3,0.07123877008730861
+Blue_Level_Lead & Blue_Win & Red_Dragon,3,0.07781854991775275
+Blue_Level_Lead & Blue_Win & Red_FirstBlood,3,0.10021510818676452
+Blue_Level_Lead & Red_Dragon & Red_FirstBlood,3,0.05744653928887764
+Blue_Level_Lead & Red_FirstBlood & Red_Win,3,0.050866759458433504
+Blue_Win & Red_CS_Lead & Red_Dragon,3,0.06339364798177907
+Blue_Win & Red_CS_Lead & Red_Experience_Lead,3,0.09793749209161078
+Blue_Win & Red_CS_Lead & Red_FirstBlood,3,0.08730861698089333
+Blue_Win & Red_CS_Lead & Red_Gold_Lead,3,0.09173731494369226
+Blue_Win & Red_CS_Lead & Red_Kill_Lead,3,0.06744274326205238
+Blue_Win & Red_CS_Lead & Red_Level_Lead,3,0.0764266734151588
+Blue_Win & Red_Dragon & Red_Experience_Lead,3,0.056813868151334934
+Blue_Win & Red_Dragon & Red_FirstBlood,3,0.0721245096798684
+Blue_Win & Red_Dragon & Red_Gold_Lead,3,0.05415664937365557
+Blue_Win & Red_Dragon & Red_Kill_Lead,3,0.05187903327850184
+Blue_Win & Red_Experience_Lead & Red_FirstBlood,3,0.07199797545235986
+Blue_Win & Red_Experience_Lead & Red_Gold_Lead,3,0.10527647728710617
+Blue_Win & Red_Experience_Lead & Red_Kill_Lead,3,0.08908009616601291
+Blue_Win & Red_Experience_Lead & Red_Level_Lead,3,0.0989497659116791
+Blue_Win & Red_FirstBlood & Red_Gold_Lead,3,0.08186764519802607
+Blue_Win & Red_FirstBlood & Red_Kill_Lead,3,0.07313678349993673
+Blue_Win & Red_FirstBlood & Red_Level_Lead,3,0.056813868151334934
+Blue_Win & Red_Gold_Lead & Red_Kill_Lead,3,0.10148045046184993
+Blue_Win & Red_Gold_Lead & Red_Level_Lead,3,0.0835125901556371
+Blue_Win & Red_Kill_Lead & Red_Level_Lead,3,0.07136530431481716
+Red_CS_Lead & Red_Dragon & Red_Experience_Lead,3,0.18208275338479057
+Red_CS_Lead & Red_Dragon & Red_FirstBlood,3,0.14817158041250159
+Red_CS_Lead & Red_Dragon & Red_Gold_Lead,3,0.18195621915728205
+Red_CS_Lead & Red_Dragon & Red_Kill_Lead,3,0.16145767430089839
+Red_CS_Lead & Red_Dragon & Red_Large_Gold_Lead,3,0.06845501708212072
+Red_CS_Lead & Red_Dragon & Red_Level_Lead,3,0.15589016829052257
+Red_CS_Lead & Red_Dragon & Red_Win,3,0.16538023535366317
+Red_CS_Lead & Red_Experience_Lead & Red_FirstBlood,3,0.2256105276477287
+Red_CS_Lead & Red_Experience_Lead & Red_Gold_Lead,3,0.3239276224218651
+Red_CS_Lead & Red_Experience_Lead & Red_Herald,3,0.0764266734151588
+Red_CS_Lead & Red_Experience_Lead & Red_Kill_Lead,3,0.2777426293812476
+Red_CS_Lead & Red_Experience_Lead & Red_Large_Gold_Lead,3,0.11426040744021258
+Red_CS_Lead & Red_Experience_Lead & Red_Level_Lead,3,0.2930532709097811
+Red_CS_Lead & Red_Experience_Lead & Red_Win,3,0.2653422750854106
+Red_CS_Lead & Red_FirstBlood & Red_Gold_Lead,3,0.23661900544097178
+Red_CS_Lead & Red_FirstBlood & Red_Herald,3,0.05656079969631785
+Red_CS_Lead & Red_FirstBlood & Red_Kill_Lead,3,0.2061242566114134
+Red_CS_Lead & Red_FirstBlood & Red_Large_Gold_Lead,3,0.09135771226116665
+Red_CS_Lead & Red_FirstBlood & Red_Level_Lead,3,0.19283816272301657
+Red_CS_Lead & Red_FirstBlood & Red_Win,3,0.2006832848285461
+Red_CS_Lead & Red_Gold_Lead & Red_Herald,3,0.07452866000253068
+Red_CS_Lead & Red_Gold_Lead & Red_Kill_Lead,3,0.29191446286220424
+Red_CS_Lead & Red_Gold_Lead & Red_Large_Gold_Lead,3,0.11451347589522966
+Red_CS_Lead & Red_Gold_Lead & Red_Level_Lead,3,0.2782487662912818
+Red_CS_Lead & Red_Gold_Lead & Red_Win,3,0.26508920663039354
+Red_CS_Lead & Red_Herald & Red_Kill_Lead,3,0.06250790838921928
+Red_CS_Lead & Red_Herald & Red_Level_Lead,3,0.06529166139440719
+Red_CS_Lead & Red_Herald & Red_Win,3,0.06339364798177907
+Red_CS_Lead & Red_Kill_Lead & Red_Large_Gold_Lead,3,0.1140073389851955
+Red_CS_Lead & Red_Kill_Lead & Red_Level_Lead,3,0.24332531949892447
+Red_CS_Lead & Red_Kill_Lead & Red_Win,3,0.23003922561052764
+Red_CS_Lead & Red_Large_Gold_Lead & Red_Level_Lead,3,0.11097051752499051
+Red_CS_Lead & Red_Large_Gold_Lead & Red_Win,3,0.10287232696444389
+Red_CS_Lead & Red_Level_Lead & Red_Win,3,0.22839428065291661
+Red_Dragon & Red_Experience_Lead & Red_FirstBlood,3,0.16348222194103504
+Red_Dragon & Red_Experience_Lead & Red_Gold_Lead,3,0.21991648740984437
+Red_Dragon & Red_Experience_Lead & Red_Herald,3,0.052385170188536
+Red_Dragon & Red_Experience_Lead & Red_Kill_Lead,3,0.2058711881563963
+Red_Dragon & Red_Experience_Lead & Red_Large_Gold_Lead,3,0.0751613311400734
+Red_Dragon & Red_Experience_Lead & Red_Level_Lead,3,0.20106288751107174
+Red_Dragon & Red_Experience_Lead & Red_Win,3,0.19701379223079843
+Red_Dragon & Red_FirstBlood & Red_Gold_Lead,3,0.175629507781855
+Red_Dragon & Red_FirstBlood & Red_Kill_Lead,3,0.16651904340124005
+Red_Dragon & Red_FirstBlood & Red_Large_Gold_Lead,3,0.06187523725167658
+Red_Dragon & Red_FirstBlood & Red_Level_Lead,3,0.13994685562444642
+Red_Dragon & Red_FirstBlood & Red_Win,3,0.1642414273060863
+Red_Dragon & Red_Gold_Lead & Red_Herald,3,0.05339744400860433
+Red_Dragon & Red_Gold_Lead & Red_Kill_Lead,3,0.22042262431987852
+Red_Dragon & Red_Gold_Lead & Red_Large_Gold_Lead,3,0.07541439959509047
+Red_Dragon & Red_Gold_Lead & Red_Level_Lead,3,0.18878906744274326
+Red_Dragon & Red_Gold_Lead & Red_Win,3,0.19650765532076428
+Red_Dragon & Red_Herald & Red_Win,3,0.05149943059597621
+Red_Dragon & Red_Kill_Lead & Red_Large_Gold_Lead,3,0.07528786536758193
+Red_Dragon & Red_Kill_Lead & Red_Level_Lead,3,0.1784132607870429
+Red_Dragon & Red_Kill_Lead & Red_Win,3,0.1852461090725041
+Red_Dragon & Red_Large_Gold_Lead & Red_Level_Lead,3,0.07338985195495382
+Red_Dragon & Red_Large_Gold_Lead & Red_Win,3,0.06883461976464633
+Red_Dragon & Red_Level_Lead & Red_Win,3,0.16867012526888522
+Red_Experience_Lead & Red_FirstBlood & Red_Gold_Lead,3,0.2778691636087562
+Red_Experience_Lead & Red_FirstBlood & Red_Herald,3,0.06579779830444135
+Red_Experience_Lead & Red_FirstBlood & Red_Kill_Lead,3,0.2548399342022017
+Red_Experience_Lead & Red_FirstBlood & Red_Large_Gold_Lead,3,0.09970897127673035
+Red_Experience_Lead & Red_FirstBlood & Red_Level_Lead,3,0.24054156649373656
+Red_Experience_Lead & Red_FirstBlood & Red_Win,3,0.22978615715551057
+Red_Experience_Lead & Red_Gold_Lead & Red_Herald,3,0.09173731494369226
+Red_Experience_Lead & Red_Gold_Lead & Red_Kill_Lead,3,0.36998608123497406
+Red_Experience_Lead & Red_Gold_Lead & Red_Large_Gold_Lead,3,0.12526888523345564
+Red_Experience_Lead & Red_Gold_Lead & Red_Level_Lead,3,0.3501202075161331
+Red_Experience_Lead & Red_Gold_Lead & Red_Win,3,0.3224092116917626
+Red_Experience_Lead & Red_Herald & Red_Kill_Lead,3,0.08148804251550044
+Red_Experience_Lead & Red_Herald & Red_Level_Lead,3,0.08528406934075668
+Red_Experience_Lead & Red_Herald & Red_Win,3,0.07807161837276984
+Red_Experience_Lead & Red_Kill_Lead & Red_Large_Gold_Lead,3,0.12476274832342149
+Red_Experience_Lead & Red_Kill_Lead & Red_Level_Lead,3,0.31734784259142096
+Red_Experience_Lead & Red_Kill_Lead & Red_Win,3,0.29419207895735794
+Red_Experience_Lead & Red_Large_Gold_Lead & Red_Level_Lead,3,0.12159939263570796
+Red_Experience_Lead & Red_Large_Gold_Lead & Red_Win,3,0.11261546248260154
+Red_Experience_Lead & Red_Level_Lead & Red_Win,3,0.2924205997722384
+Red_FirstBlood & Red_Gold_Lead & Red_Herald,3,0.0693407566746805
+Red_FirstBlood & Red_Gold_Lead & Red_Kill_Lead,3,0.2831836011641149
+Red_FirstBlood & Red_Gold_Lead & Red_Large_Gold_Lead,3,0.09996203973174744
+Red_FirstBlood & Red_Gold_Lead & Red_Level_Lead,3,0.23725167657851448
+Red_FirstBlood & Red_Gold_Lead & Red_Win,3,0.2440845248639757
+Red_FirstBlood & Red_Herald & Red_Kill_Lead,3,0.062381374161710745
+Red_FirstBlood & Red_Herald & Red_Level_Lead,3,0.05820574465392889
+Red_FirstBlood & Red_Herald & Red_Win,3,0.06187523725167658
+Red_FirstBlood & Red_Kill_Lead & Red_Large_Gold_Lead,3,0.09983550550423889
+Red_FirstBlood & Red_Kill_Lead & Red_Level_Lead,3,0.2206756927748956
+Red_FirstBlood & Red_Kill_Lead & Red_Win,3,0.22725547260533974
+Red_FirstBlood & Red_Large_Gold_Lead & Red_Level_Lead,3,0.09654561558901682
+Red_FirstBlood & Red_Large_Gold_Lead & Red_Win,3,0.08971276730355561
+Red_FirstBlood & Red_Level_Lead & Red_Win,3,0.19865873718840946
+Red_Gold_Lead & Red_Herald & Red_Kill_Lead,3,0.08541060356826521
+Red_Gold_Lead & Red_Herald & Red_Level_Lead,3,0.07883082373782108
+Red_Gold_Lead & Red_Herald & Red_Win,3,0.07693281032519296
+Red_Gold_Lead & Red_Kill_Lead & Red_Large_Gold_Lead,3,0.12514235100594712
+Red_Gold_Lead & Red_Kill_Lead & Red_Level_Lead,3,0.3186131848665064
+Red_Gold_Lead & Red_Kill_Lead & Red_Win,3,0.311274199671011
+Red_Gold_Lead & Red_Large_Gold_Lead & Red_Level_Lead,3,0.1217259268632165
+Red_Gold_Lead & Red_Large_Gold_Lead & Red_Win,3,0.11299506516512717
+Red_Gold_Lead & Red_Level_Lead & Red_Win,3,0.27875490320131596
+Red_Herald & Red_Kill_Lead & Red_Level_Lead,3,0.07136530431481716
+Red_Herald & Red_Kill_Lead & Red_Win,3,0.07009996203973175
+Red_Herald & Red_Level_Lead & Red_Win,3,0.06731620903454384
+Red_Kill_Lead & Red_Large_Gold_Lead & Red_Level_Lead,3,0.12121978995318233
+Red_Kill_Lead & Red_Large_Gold_Lead & Red_Win,3,0.11261546248260154
+Red_Kill_Lead & Red_Level_Lead & Red_Win,3,0.25623181070479567
+Red_Large_Gold_Lead & Red_Level_Lead & Red_Win,3,0.10957864102239656

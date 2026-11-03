@@ -1,0 +1,14 @@
+﻿feature_A,feature_B_or_expression,relation,exact_equal,equal_at_1e-9,max_abs_error,decision_reduced_raw,reason
+redDeaths,blueKills,algebraic equality,True,True,0.0,drop redDeaths,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+blueDeaths,redKills,algebraic equality,True,True,0.0,drop blueDeaths,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+redFirstBlood,1 - blueFirstBlood,algebraic equality,True,True,0.0,drop redFirstBlood,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+redGoldDiff,-blueGoldDiff,algebraic equality,True,True,0.0,drop redGoldDiff,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+redExperienceDiff,-blueExperienceDiff,algebraic equality,True,True,0.0,drop redExperienceDiff,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+blueGoldDiff,blueTotalGold - redTotalGold,algebraic equality,True,True,0.0,drop blueGoldDiff,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+blueExperienceDiff,blueTotalExperience - redTotalExperience,algebraic equality,True,True,0.0,drop blueExperienceDiff,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+blueCSPerMin,blueTotalMinionsKilled / 10,algebraic equality,True,True,0.0,drop blueCSPerMin,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+blueGoldPerMin,blueTotalGold / 10,algebraic equality,True,True,0.0,drop blueGoldPerMin,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+blueEliteMonsters,blueDragons + blueHeralds,algebraic equality,True,True,0.0,drop blueEliteMonsters,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+redCSPerMin,redTotalMinionsKilled / 10,algebraic equality,True,True,0.0,drop redCSPerMin,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+redGoldPerMin,redTotalGold / 10,algebraic equality,True,True,0.0,drop redGoldPerMin,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.
+redEliteMonsters,redDragons + redHeralds,algebraic equality,True,True,0.0,drop redEliteMonsters,Giữ thành phần gốc; biến suy ra không cung cấp thông tin mới.

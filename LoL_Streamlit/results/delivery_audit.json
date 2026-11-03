@@ -1,0 +1,41 @@
+{
+  "verified_on_client_date": "2026-10-21",
+  "original_training_code_unchanged": true,
+  "training_code_sha256": "613c093db76778e5b70c4c1156ac484f709b7cfa851e9044b368556325bc5b7c",
+  "dataset_original_bytes_preserved": true,
+  "dataset_sha256": "82b2e23279097c2dac616e966eb2911711c428d41b6382b4cdb15da4892f9ca6",
+  "report_input_sha256": "643a6b43c95765ef802c364bf5aaceb765f89a3a762dfce36c1281f06185b5fc",
+  "report_not_modified": true,
+  "test_metrics_match_report_rounding": {
+    "Accuracy": true,
+    "Precision (Blue)": true,
+    "Recall (Blue)": true,
+    "F1 (Blue)": true,
+    "ROC-AUC": true
+  },
+  "test_metrics": {
+    "accuracy": 0.7226720647773279,
+    "precision": 0.7176938369781312,
+    "recall": 0.7322515212981744,
+    "f1": 0.7248995983935743,
+    "roc_auc": 0.7963120044255946
+  },
+  "model_feature_count": 25,
+  "model_family": "Histogram Gradient Boosting",
+  "test_demo_rows": 988,
+  "test_predictions_match_saved_at_absolute_tolerance": 1e-14,
+  "ui_test_result": {
+    "tests_run": 15,
+    "failures": 0,
+    "errors": 0,
+    "all_passed": true,
+    "browser_visual_qa": "not performed; browser skill unavailable",
+    "ui_test_method": "Streamlit AppTest; CSV upload object injected to exercise handler",
+    "live_cloud_deployment": "not performed; requires user GitHub/Streamlit account"
+  },
+  "figure_count": 20,
+  "hosting_target": "Streamlit Community Cloud",
+  "public_url": null,
+  "deployment_status": "ready for user account deployment; not published",
+  "reference_site_access": "Could not retrieve reference page; original Vietnamese UI created"
+}

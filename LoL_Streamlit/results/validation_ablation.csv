@@ -1,0 +1,9 @@
+﻿ablation,features,n_features,accuracy,precision,recall,f1,roc_auc
+Full difference,wardPlacedDiff|wardDestroyedDiff|killDiff|assistDiff|dragonDiff|heraldDiff|towerDiff|avgLevelDiff|minionDiff|jungleMinionDiff|blueGoldDiff|blueExperienceDiff|blueFirstBlood,13,0.7186234817813765,0.7207392197125256,0.7119675456389453,0.7163265306122449,0.8132890773864404
+Economy only,blueGoldDiff,1,0.7196356275303644,0.7231404958677686,0.7099391480730223,0.7164790174002047,0.8009957588050896
+Combat only,killDiff|assistDiff|blueFirstBlood,3,0.6983805668016194,0.7044025157232704,0.6815415821501014,0.6927835051546392,0.7843075788309054
+Farming + experience,minionDiff|jungleMinionDiff|avgLevelDiff|blueExperienceDiff,4,0.7257085020242915,0.722,0.7322515212981744,0.7270896273917422,0.7952629745733195
+Objectives only,dragonDiff|heraldDiff|towerDiff,3,0.6234817813765182,0.6114180478821363,0.6734279918864098,0.640926640926641,0.666906386379003
+Vision only,wardPlacedDiff|wardDestroyedDiff,2,0.5465587044534413,0.5510204081632653,0.49290060851926976,0.5203426124197003,0.5628475423607269
+Without gold,wardPlacedDiff|wardDestroyedDiff|killDiff|assistDiff|dragonDiff|heraldDiff|towerDiff|avgLevelDiff|minionDiff|jungleMinionDiff|blueExperienceDiff|blueFirstBlood,12,0.7246963562753036,0.7223340040241448,0.7281947261663286,0.7252525252525253,0.8107033827114964
+Without gold and XP,wardPlacedDiff|wardDestroyedDiff|killDiff|assistDiff|dragonDiff|heraldDiff|towerDiff|avgLevelDiff|minionDiff|jungleMinionDiff|blueFirstBlood,11,0.7125506072874493,0.710261569416499,0.716024340770791,0.7131313131313132,0.8056508287745612

@@ -1,0 +1,23 @@
+{
+  "selected_k": 2,
+  "criterion": "maximum silhouette on fixed Train sample; elbow descriptive only",
+  "silhouette_sample": 0.258342638169138,
+  "sample_n": 3000,
+  "fit_n": 7903,
+  "features": [
+    "absGoldDiff",
+    "absExperienceDiff",
+    "absKillDiff",
+    "absMinionDiff",
+    "totalKills",
+    "totalWardsPlaced",
+    "totalWardsDestroyed",
+    "totalEliteMonsters",
+    "totalTowers"
+  ],
+  "pca_explained_variance_ratio": [
+    0.3138024532298941,
+    0.1299451447469988
+  ],
+  "blueWins": "posthoc description only; never used for K choice"
+}

@@ -1,0 +1,41 @@
+﻿feature,dtype,description,unit,available_at,missing,unique,min,max
+gameId,int64,Định danh trận đấu,ID,định danh,0,9879,4295358071.0,4527990640.0
+blueWins,int64,"Kết quả cuối trận; 1=Blue thắng, 0=Red thắng",nhị phân,cuối trận (target),0,2,0.0,1.0
+blueWardsPlaced,int64,Blue: Số mắt đã đặt,mắt,phút 10,0,147,5.0,250.0
+blueWardsDestroyed,int64,Blue: Số mắt đã phá,mắt,phút 10,0,27,0.0,27.0
+blueFirstBlood,int64,"Blue: Đội giành mạng đầu tiên; 1=có, 0=không",nhị phân,phút 10,0,2,0.0,1.0
+blueKills,int64,Blue: Số mạng hạ gục,mạng,phút 10,0,21,0.0,22.0
+blueDeaths,int64,Blue: Số lần bị hạ gục,lần,phút 10,0,21,0.0,22.0
+blueAssists,int64,Blue: Số lượt hỗ trợ hạ gục,lượt,phút 10,0,30,0.0,29.0
+blueEliteMonsters,int64,Blue: Số quái lớn: rồng + sứ giả,quái,phút 10,0,3,0.0,2.0
+blueDragons,int64,Blue: Số rồng đã hạ,rồng,phút 10,0,2,0.0,1.0
+blueHeralds,int64,Blue: Số sứ giả đã hạ,sứ giả,phút 10,0,2,0.0,1.0
+blueTowersDestroyed,int64,Blue: Số trụ đối phương đã phá,trụ,phút 10,0,5,0.0,4.0
+blueTotalGold,int64,Blue: Tổng vàng của đội,vàng,phút 10,0,4739,10730.0,23701.0
+blueAvgLevel,float64,Blue: Cấp độ trung bình thành viên,cấp,phút 10,0,17,4.6,8.0
+blueTotalExperience,int64,Blue: Tổng kinh nghiệm,XP,phút 10,0,4143,10098.0,22224.0
+blueTotalMinionsKilled,int64,Blue: Số lính đường đã hạ,lính,phút 10,0,148,90.0,283.0
+blueTotalJungleMinionsKilled,int64,Blue: Số quái rừng đã hạ,quái,phút 10,0,74,0.0,92.0
+blueGoldDiff,int64,Blue: Chênh lệch vàng đội này trừ đối phương,vàng,phút 10,0,6047,-10830.0,11467.0
+blueExperienceDiff,int64,Blue: Chênh lệch kinh nghiệm đội này trừ đối phương,XP,phút 10,0,5356,-9333.0,8348.0
+blueCSPerMin,float64,Blue: Lính đường hạ trung bình mỗi phút của đội,lính/phút,phút 10,0,148,9.0,28.3
+blueGoldPerMin,float64,Blue: Vàng trung bình mỗi phút của đội,vàng/phút,phút 10,0,4739,1073.0,2370.1
+redWardsPlaced,int64,Red: Số mắt đã đặt,mắt,phút 10,0,151,6.0,276.0
+redWardsDestroyed,int64,Red: Số mắt đã phá,mắt,phút 10,0,25,0.0,24.0
+redFirstBlood,int64,"Red: Đội giành mạng đầu tiên; 1=có, 0=không",nhị phân,phút 10,0,2,0.0,1.0
+redKills,int64,Red: Số mạng hạ gục,mạng,phút 10,0,21,0.0,22.0
+redDeaths,int64,Red: Số lần bị hạ gục,lần,phút 10,0,21,0.0,22.0
+redAssists,int64,Red: Số lượt hỗ trợ hạ gục,lượt,phút 10,0,28,0.0,28.0
+redEliteMonsters,int64,Red: Số quái lớn: rồng + sứ giả,quái,phút 10,0,3,0.0,2.0
+redDragons,int64,Red: Số rồng đã hạ,rồng,phút 10,0,2,0.0,1.0
+redHeralds,int64,Red: Số sứ giả đã hạ,sứ giả,phút 10,0,2,0.0,1.0
+redTowersDestroyed,int64,Red: Số trụ đối phương đã phá,trụ,phút 10,0,3,0.0,2.0
+redTotalGold,int64,Red: Tổng vàng của đội,vàng,phút 10,0,4732,11212.0,22732.0
+redAvgLevel,float64,Red: Cấp độ trung bình thành viên,cấp,phút 10,0,18,4.8,8.2
+redTotalExperience,int64,Red: Tổng kinh nghiệm,XP,phút 10,0,4113,10465.0,22269.0
+redTotalMinionsKilled,int64,Red: Số lính đường đã hạ,lính,phút 10,0,153,107.0,289.0
+redTotalJungleMinionsKilled,int64,Red: Số quái rừng đã hạ,quái,phút 10,0,75,4.0,92.0
+redGoldDiff,int64,Red: Chênh lệch vàng đội này trừ đối phương,vàng,phút 10,0,6047,-11467.0,10830.0
+redExperienceDiff,int64,Red: Chênh lệch kinh nghiệm đội này trừ đối phương,XP,phút 10,0,5356,-8348.0,9333.0
+redCSPerMin,float64,Red: Lính đường hạ trung bình mỗi phút của đội,lính/phút,phút 10,0,153,10.7,28.9
+redGoldPerMin,float64,Red: Vàng trung bình mỗi phút của đội,vàng/phút,phút 10,0,4732,1121.2,2273.2
